@@ -10,4 +10,5 @@
 </pre>
 
 <h2>Como ficará o resultado final</h2>
-![Custom Radio Buttons _ From CodingNepal - Pessoal — Microsoft​ Edge 25_01_2021 23_41_25](https://user-images.githubusercontent.com/72364037/105792852-e0567f00-5f66-11eb-8e06-f5af7bf199af.png)
+
+![Custom Radio Buttons _ From CodingNepal - Pessoal — Microsoft​ Edge 25_01_2021 23_41_25](https://user-images.githubusercontent.com/72364037/105793043-2f041900-5f67-11eb-9378-a9cfc6e4508d.png)
